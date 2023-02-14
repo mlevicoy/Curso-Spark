@@ -15,5 +15,5 @@
   </ol>
 </p>
 <p>
-  Para ve el resumen de este curso pulsar <a href="https://github.com/mlevicoy/Personal-Branding/blob/main/Clase%20N%C2%B0%204%20Inteligencia%20Emocional.pdf"><b>aqui</b></a>:
+  Para ve el resumen de este curso pulsar <a href="https://github.com/mlevicoy/Curso-Spark/blob/main/Resumen%20Curso.pdf"><b>aquí</b></a>:
 </p>
